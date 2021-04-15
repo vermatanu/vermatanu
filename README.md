@@ -1,8 +1,7 @@
 <img src="tanu1.gif" height="500px" width="500px">
 
 # Hi there 👋🏻   
-My name is Tanu Verma. I'm a sophomore in Comuter science with specialization in CyberSecurity. 
-
+My name is Tanu Verma. I'm a sophomore in Computer science with specialization in CyberSecurity.
 You can find me on [<img src="linkedin-icon-2.svg" height=20px width=20px>][2] .
 
 ## ⚙ Tools and Technologies
@@ -20,6 +19,14 @@ You can find me on [<img src="linkedin-icon-2.svg" height=20px width=20px>][2] .
 </a>
 <a href="https://github.com/vermatanu/vermatanu">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vermatanu&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Tanu's GitHub Stats" />
+</a>
+<a href="https://github.com/vermatanu/EWB-project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vermatanu&repo=EWB-project&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+<a href="https://github.com/vermatanu/ADA">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vermatanu&repo=ADA&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
