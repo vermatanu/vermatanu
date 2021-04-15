@@ -3,7 +3,7 @@
 # Hi there 👋🏻   
 My name is Tanu Verma. I'm a sophomore in Comuter science with specialization in CyberSecurity. 
 
-You can find me on [!<img src="linkedin-icon-2.svg" height=30px width=30px>][2] .
+You can find me on [<img src="linkedin-icon-2.svg" height=20px width=20px>][2] .
 
 ## ⚙ Tools and Technologies
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
