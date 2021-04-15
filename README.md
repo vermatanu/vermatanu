@@ -2,6 +2,16 @@
 <img src="tanu1.gif" height="500px" width="500px">
 
 ### Hi there 👋🏻   <!--<img src="wave.gif" width="30px"> -->
+My name is Tanu Verma. I'm a sophomore in Comuter science with specialization in CyberSecurity. 
+
+You can find me on [![LinkedIn][3.2]][3].
+<!-- Icons -->
+
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[2]: https://www.linkedin.com/in/tanu-verma-853010191/
 
 
 <!--
