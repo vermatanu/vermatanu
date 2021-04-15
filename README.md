@@ -20,7 +20,7 @@ You can find me on [<img src="linkedin-icon-2.svg" height=20px width=20px>][2] .
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vermatanu&theme=radical" />
 </a>
 <a href="https://github.com/vermatanu/vermatanu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vermatanu&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Tanu's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vermatanu&show_icons=true&ltheme=radical" alt="Tanu's GitHub Stats" />
 </a>
 
 
