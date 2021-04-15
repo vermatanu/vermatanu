@@ -1,5 +1,5 @@
 <!--[![Header](https://raw.githubusercontent.com/MartinHeinz/vermatanu/vermatanu/readme_header.png "Header")](https://)-->
-<img src="tanu.gif" height="300px" width="300px">
+<img src="tanu1.gif" height="500px" width="500px">
 
 ### Hi there 👋🏻   <!--<img src="wave.gif" width="30px"> -->
 
