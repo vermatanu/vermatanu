@@ -30,6 +30,3 @@ You can find me on [<img src="linkedin-icon-2.svg" height=20px width=20px>][2] .
 
 [2]: https://www.linkedin.com/in/tanu-verma-853010191/
 
-<!-- Icons -->
-
-[2.2]: linkedin-icon-2.svg =30x30
