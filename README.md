@@ -32,4 +32,4 @@ You can find me on [![LinkedIn][2.2]][2] .
 
 <!-- Icons -->
 
-[2.2]: linkedin-icon-2.svg 
+[2.2]: linkedin-icon-2.svg =30x30
