@@ -1,6 +1,6 @@
 [![Header](https://raw.githubusercontent.com/MartinHeinz/vermatanu/vermatanu/readme_header.png "Header")](https://)
 
-### Hi there <img src="https://raw.githubusercontent.com/vermatanu/vermatanu/master/wave.gif" width="30px">
+### Hi there <img src="wave.gif" width="30px">
 
 <!--
 **vermatanu/vermatanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
