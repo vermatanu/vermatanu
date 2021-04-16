@@ -1,7 +1,7 @@
-<img src="tanu1.gif" height="500px" width="500px">
+<img src="tanu1.gif" height="600px" width="600px">
 
 # Hi there 👋🏻   
-My name is Tanu Verma. I'm a sophomore in Computer science with specialization in CyberSecurity.
+My name is Tanu Verma. I'm a sophomore in Computer science with specialization in CyberSecurity. I have just started my journey with Open Source and am looking for projects to contribute to.
 You can find me on [<img src="linkedin-icon-2.svg" height=20px width=20px>][2] .
 
 ## ⚙ Tools and Technologies
