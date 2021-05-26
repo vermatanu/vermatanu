@@ -12,6 +12,9 @@ You can find me on [<img src="linkedin-icon-2.svg" height=20px width=20px>][2] .
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C/C++-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JS-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 
 ## 📈 Github Stats
 <a href="https://github.com/vermatanu/vermatanu">
